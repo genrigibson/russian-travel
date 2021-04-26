@@ -1,0 +1,9 @@
+.intro__list {
+  border: 1px solid red;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 150%;
+  color: #FFFFFF;
+}

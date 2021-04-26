@@ -1,0 +1,11 @@
+.places__website_url-heading {
+  border: 1px solid red;
+  grid-area: url;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0.2em;
+  color: #AAAAAA;
+}

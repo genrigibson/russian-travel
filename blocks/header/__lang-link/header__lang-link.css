@@ -1,7 +1,26 @@
 .header__lang-link {
   display: flex;
-  flex-direction: row;
   list-style: none;
-  padding: 0;
-  margin-left: 1rem;
+  border: 1px solid red;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 117%;
+  text-align: right;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+}
+.header__lang-link:active {
+  color: #FFFFFF;
+}
+.header__lang-link:before {
+  color: #FFFFFF;
+}
+.header__lang-link:after {
+  color: #FFFFFF;
+}
+.header__lang-link:hover {
+  color: #FFFFFF;
+  opacity: 0.5;
 }

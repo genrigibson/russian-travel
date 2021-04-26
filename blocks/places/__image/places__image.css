@@ -1,0 +1,8 @@
+.places__image {
+  border: 1px solid red;
+  grid-area: image;
+  max-width: 100%;
+  width: 100%;
+  object-fit: cover;
+  display: block;
+}

@@ -1,6 +1,6 @@
-.places__paragraph {
-  border: 1px solid red;
-  grid-area: text;
+.places__paragraph_bottom {
+  border: 1px red solid;
+  grid-area: text_bottom;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;

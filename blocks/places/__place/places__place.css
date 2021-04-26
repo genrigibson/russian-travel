@@ -1,0 +1,13 @@
+.places__place {
+  border: 1px solid red;
+  list-style: none;
+  font-family: 'Inter', Arial, sans-serif;
+  display: grid;
+  grid-template-columns:  minmax(1fr, max-content)  minmax(min-content, max-content);
+  grid-gap: 12px 28px;
+  grid-template-areas:
+    "title url"
+    "title link"
+    "image text"
+    "image text_bottom";
+}

@@ -1,0 +1,10 @@
+.cover__title {
+  border: 1px solid red;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 72px;
+  line-height: 106%;
+  text-align: center;
+  color: #FFFFFF;
+}

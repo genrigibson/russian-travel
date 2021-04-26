@@ -1,4 +1,3 @@
 .header__logo {
-  align-self: flex-start;
-  justify-self: flex-start;
+  border: 1px solid red;
 }
