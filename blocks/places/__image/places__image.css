@@ -1,9 +1,10 @@
 .places__image {
-  border: 1px solid red;
   grid-area: image;
   max-width: 100%;
   width: 460px;
   height: 460px;
   object-fit: cover;
   display: block;
+  margin: 48px 0 0;
+  padding: 0;
 }

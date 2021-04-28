@@ -1,24 +1,25 @@
 .header__lang-link {
-  border: 1px solid red;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
   font-size: 24px;
   line-height: 117%;
   text-align: right;
-  text-decoration-line: underline;
+  text-decoration-line: none;
   color: #FFFFFF;
   padding: 0px;
   margin: 0;
 }
 .header__lang-link:active {
   color: #FFFFFF;
+  text-decoration-line: underline;
 }
 .header__lang-link:before {
   color: #FFFFFF;
 }
 .header__lang-link:after {
   color: #FFFFFF;
+  text-decoration-line: underline;
 }
 .header__lang-link:hover {
   opacity: 0.5;

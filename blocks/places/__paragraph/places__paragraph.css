@@ -1,5 +1,4 @@
 .places__paragraph {
-  border: 1px solid red;
   grid-area: text;
   font-family: Inter;
   font-style: normal;
@@ -7,4 +6,6 @@
   font-size: 18px;
   line-height: 163%;
   color: #FFFFFF;
+  margin: 48px 0 26px 40px;
+  padding: 0;
 }

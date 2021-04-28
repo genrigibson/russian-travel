@@ -1,5 +1,4 @@
 .cover__subtitle {
-  border: 1px solid red;
   font-family: Inter;
   font-style: normal;
   font-weight: normal;
@@ -7,4 +6,5 @@
   line-height: 122%;
   text-align: center;
   color: #FFFFFF;
+  z-index: 200;
 }

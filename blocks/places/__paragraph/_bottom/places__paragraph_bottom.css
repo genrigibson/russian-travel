@@ -1,5 +1,4 @@
 .places__paragraph_bottom {
-  border: 1px red solid;
   grid-area: text_bottom;
   font-family: Inter;
   font-style: normal;
@@ -7,4 +6,6 @@
   font-size: 18px;
   line-height: 163%;
   color: #FFFFFF;
+  padding: 0 0 20% 0;
+  margin: 26px 0 0 40px;
 }
