@@ -8,6 +8,8 @@
   text-decoration-line: underline;
   color: #FFFFFF;
   align-self: end;
+  margin: 12px 0 0 0;
+  padding: 0;
 }
 .places__website_url-link:hover {
   opacity: 0.5;
