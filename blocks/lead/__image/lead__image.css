@@ -1,8 +1,9 @@
 .lead__image {
   border: 1px solid red;
   max-width: 100%;
-  width: 100%;
+  width:100%;
   object-fit: cover;
   padding: 0;
   margin: 64px auto 0;
+  box-sizing: border-box;
 }

@@ -8,6 +8,7 @@
   line-height: 122%;
   text-decoration-line: underline;
   color: #FFFFFF;
+  align-self: end;
 }
 .places__website_url-link:hover {
   opacity: 0.5;

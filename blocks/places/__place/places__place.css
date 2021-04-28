@@ -7,7 +7,7 @@
   grid-gap: 12px 28px;
   grid-template-areas:
     "title url"
-    "title link"
     "image text"
     "image text_bottom";
+    margin: 80px, auto, 0;
 }
