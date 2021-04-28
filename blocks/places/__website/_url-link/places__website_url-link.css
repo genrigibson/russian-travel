@@ -14,3 +14,18 @@
 .places__website_url-link:hover {
   opacity: 0.5;
 }
+@media screen and (max-width: 1024px) {
+  .places__website {
+    margin-left: 32px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .places__website {
+    margin-left: 28px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .places__website {
+    margin-left: auto;
+  }
+}

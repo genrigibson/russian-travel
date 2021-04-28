@@ -5,3 +5,15 @@
   margin: 92px auto 24px;
   padding: 0;
 }
+@media screen and (max-width: 768px) {
+  .footer {
+    margin-top: 88px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .footer {
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-top: 64px;
+  }
+}

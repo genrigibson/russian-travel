@@ -1,12 +1,26 @@
 .places__place {
   list-style: none;
   font-family: 'Inter', Arial, sans-serif;
-  margin: 80px 0 0 0;
+  margin: 80px 0 0;
   display: grid;
   grid-template-columns:  minmax(1fr, max-content)  minmax(min-content, max-content);
-  grid-gap: 12px 28px;
+  grid-gap: 48px 40px;
   grid-template-areas:
     "title url"
     "image text"
     "image text_bottom";
+    padding: 0;
+}
+@media screen and (max-width: 320px) {
+  .places__place {
+    grid-template-columns: 1fr;
+    grid-gap: 0;
+    grid-template-areas:
+        "title"
+        "url"
+        "link"
+        "image"
+        "text"
+        "text_bottom";
+  }
 }
