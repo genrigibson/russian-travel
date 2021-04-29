@@ -7,26 +7,16 @@
   line-height: 163%;
   color: #FFFFFF;
   padding: 0;
-  margin: 0;
-}
-@media screen and (max-width: 1024px) {
-  .places__paragraph {
-    margin-left: 32px;
-    margin-bottom: 26px;
-  }
+  margin: 0 0 26px 0;
 }
 @media screen and (max-width: 768px) {
-  .places__paragraph {
-    margin-left: 26px;
-    margin-bottom: 25px;
+  .places__paragraph_bottom {
     font-size: 16px;
     line-height: 26.08px;
   }
 }
 @media screen and (max-width: 320px) {
-  .places__paragraph {
-    margin-left: auto;
-    margin-top: 32px;
+  .places__paragraph_bottom {
     font-size: 16px;
     line-height: 26.08px;
   }
