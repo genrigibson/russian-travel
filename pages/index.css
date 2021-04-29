@@ -34,7 +34,7 @@
 @import url("../blocks/places/__place/places__place.css");
 @import url("../blocks/places/__title/places__title.css");
 @import url("../blocks/places/__website/places__website.css");
-@import url("../blocks/places/__website/_url-heading/places__website_url-heading.css");
-@import url("../blocks/places/__website/_url-link/places__website_url-link.css");
+@import url("../blocks/places/__website/__url-heading/places__website__url-heading.css");
+@import url("../blocks/places/__website/__url-link/places__website__url-link.css");
 @import url("../blocks/places/__paragraph/_bottom/places__paragraph_bottom.css");
 @import url("../blocks/header/__lang-list/header__lang-list.css");

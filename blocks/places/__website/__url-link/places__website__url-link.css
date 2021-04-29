@@ -1,4 +1,4 @@
-.places__website_url-link {
+.places__website__url-link {
   grid-area: link;
   font-family: Inter;
   font-style: normal;
@@ -11,7 +11,7 @@
   margin: 0;
   padding: 0;
 }
-.places__website_url-link:hover {
+.places__website__url-link:hover {
   opacity: 0.5;
 }
 
