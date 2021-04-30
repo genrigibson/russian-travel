@@ -27,7 +27,6 @@
     grid-template-areas:
         "title"
         "url"
-        "link"
         "image"
         "text";
   }

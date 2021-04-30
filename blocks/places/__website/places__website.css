@@ -1,4 +1,5 @@
 .places__website {
+  grid-area: url;
   list-style: none;
   padding: 0;
   margin: 0;
