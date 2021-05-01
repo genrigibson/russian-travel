@@ -6,11 +6,11 @@
   line-height: 150%;
   color: #FFFFFF;
   padding: 0;
-  margin: 33px 0 0;
+  margin: 3.4% 0 0;
   list-style: none;
 }
 @media screen and (max-width: 767px) {
   .intro__list {
-    margin-top: 34px;
+    margin-top: 11.8%;
   }
 }
