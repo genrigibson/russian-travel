@@ -12,9 +12,6 @@
 .footer__link:hover {
   opacity: 0.5;
 }
-.footer__link:nth-child(4) {
-  margin: 0;
-}
 @media screen and (max-width: 767px) {
   .footer__link {
     font-size: 24px;
