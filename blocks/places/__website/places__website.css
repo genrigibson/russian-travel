@@ -4,4 +4,8 @@
   padding: 0;
   margin: 0;
 }
-
+@media screen and (max-width: 767px) {
+  .places__website {
+    margin: 0 5%;
+  }
+}
