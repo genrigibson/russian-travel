@@ -6,3 +6,8 @@
     margin-top: 23.6%;
   }
 }
+@media screen and (max-width: 767px) {
+  .places__website_first {
+    margin: 0 5% 0;
+  }
+}
