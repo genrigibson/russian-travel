@@ -1,12 +1,11 @@
 .places__url-link {
-  font-family: "Inter";
+  font-family: 'Inter', Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
   line-height: 122%;
   text-decoration-line: underline;
   color: #FFFFFF;
-  align-self: end;
   margin: 12px 0 0;
   padding: 0;
 }
