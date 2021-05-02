@@ -15,12 +15,11 @@
 }
 @media screen and (max-width: 1023px) {
   .lead {
-    margin-left: 0;
-    margin-right: 0;
+    margin: 6.25% 0 0;
     width: 100%;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .lead {
     margin-top: 15%;
   }
