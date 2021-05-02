@@ -1,7 +1,7 @@
 .cover {
   width: 92.5%;
   max-width: 1184px;
-  margin: 0 auto;
+  margin: 7.2% auto 0;
   padding: 0;
   box-sizing: border-box;
   position: relative;
@@ -9,7 +9,17 @@
 @media screen and (max-width: 1279px) {
   .cover{
     width: 100%;
-    padding: 0;
+    margin-top: 9%;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .cover {
+    margin-top: 11.5%;
+  }
+}
+@media screen and (max-width: 767px) {
+  .cover {
+    margin-top: 20.6%;
   }
 }
 

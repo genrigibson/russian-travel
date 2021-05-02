@@ -2,10 +2,15 @@
   grid-area: url;
   list-style: none;
   padding: 0;
-  margin: 0;
+  margin: 6.5% 0 0;
+}
+@media screen and (max-width: 1279px) {
+  .places__website {
+    margin: 6.5% 0 0;
+  }
 }
 @media screen and (max-width: 767px) {
   .places__website {
-    margin: 0 5%;
+    margin: 0 5% 0;
   }
 }

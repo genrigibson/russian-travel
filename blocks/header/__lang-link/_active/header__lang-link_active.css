@@ -1,0 +1,7 @@
+.header__lang-link_active:link {
+  text-decoration-line: underline;
+}
+.header__lang-link_active:after {
+  color: #FFFFFF;
+  text-decoration-line: underline;
+}
